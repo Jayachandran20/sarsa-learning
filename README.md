@@ -75,8 +75,6 @@ def sarsa(env,
 ### Optimal Action Value Functions:
 ![image](https://github.com/ShafeeqAhamedS/sarsa-learning/assets/93427237/7877b5f8-a7d2-44f5-a3c6-c822ca282043)
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br>
-
 ### First Visit Monte Carlo Estimates
 ![image](https://github.com/ShafeeqAhamedS/sarsa-learning/assets/93427237/695e052e-36a4-4634-b301-3ca4f91da419)
 ### Sarsa Estimates:
